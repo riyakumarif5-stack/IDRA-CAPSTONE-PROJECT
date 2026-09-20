@@ -109,7 +109,7 @@ The model is tuned toward recall on purpose: in a retention-targeting use case, 
 2. Run the data-loading cell —upload the P_10_Ecommerce file
 3. `Runtime → Run all`.
 
-The notebook is self-contained and runs end to end without modification.
+The notebook is self-contained just upload the P_10_Ecommerce file in the setup and data loading part and it runs end to end without modification.
 
 **Stack:** Python · pandas · NumPy · scikit-learn · SciPy · matplotlib · seaborn
 
