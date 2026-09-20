@@ -106,7 +106,7 @@ The model is tuned toward recall on purpose: in a retention-targeting use case, 
 ## Running the Analysis
 
 1. Open `IDRA_Capstone_Notebook.ipynb` in [Google Colab](https://colab.research.google.com/).
-2. Run the data-loading cell — it fetches the CSV directly from this repository.
+2. Run the data-loading cell —upload the P_10_Ecommerce file
 3. `Runtime → Run all`.
 
 The notebook is self-contained and runs end to end without modification.
