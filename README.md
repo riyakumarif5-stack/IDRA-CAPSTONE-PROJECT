@@ -124,7 +124,6 @@ The notebook is self-contained and runs end to end without modification.
 
 ---
 
-## Author
 
-**[Your Name]** · [Your Institute] · IDRA Enrollment No. [Your Number]
+
 Supervised by Dr. Shaheena Salam, India Data Research Academy
